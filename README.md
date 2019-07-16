@@ -8,7 +8,7 @@ Hello, Goodbye!
 
 
 ## NCWD-7A
-jQuery Click! 
+Crazy Buttons!
 
 [Link to NCWD-7A](https://github.com/codebug-nc/NCWD-7A)
 
