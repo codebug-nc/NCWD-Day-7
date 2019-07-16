@@ -20,6 +20,6 @@ Can you keep a secret?
 
 
 ## NCWD-7C
-Turn the lights out!
+Color the Smiley!
 
 [Link to NCWD-7C](https://github.com/codebug-nc/NCWD-7C)
