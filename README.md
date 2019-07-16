@@ -2,7 +2,9 @@
 
 
 ## Warmup
+Hello, Goodbye!
 
+[Link to NCWD-7-Warmup](https://github.com/codebug-nc/NCWD-7-Warmup)
 
 
 ## NCWD-7A
